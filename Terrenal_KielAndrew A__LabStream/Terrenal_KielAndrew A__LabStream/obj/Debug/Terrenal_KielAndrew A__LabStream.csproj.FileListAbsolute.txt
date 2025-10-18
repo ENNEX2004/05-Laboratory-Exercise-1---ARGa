@@ -1,0 +1,12 @@
+C:\Users\LAB5-PC034\source\repos\Terrenal_KielAndrew A__LabStream\Terrenal_KielAndrew A__LabStream\bin\Debug\Terrenal_KielAndrew A__LabStream.exe.config
+C:\Users\LAB5-PC034\source\repos\Terrenal_KielAndrew A__LabStream\Terrenal_KielAndrew A__LabStream\bin\Debug\Terrenal_KielAndrew A__LabStream.exe
+C:\Users\LAB5-PC034\source\repos\Terrenal_KielAndrew A__LabStream\Terrenal_KielAndrew A__LabStream\bin\Debug\Terrenal_KielAndrew A__LabStream.pdb
+C:\Users\LAB5-PC034\source\repos\Terrenal_KielAndrew A__LabStream\Terrenal_KielAndrew A__LabStream\obj\Debug\Terrenal_KielAndrew A__LabStream.csproj.AssemblyReference.cache
+C:\Users\LAB5-PC034\source\repos\Terrenal_KielAndrew A__LabStream\Terrenal_KielAndrew A__LabStream\obj\Debug\Terrenal_KielAndrew_A__LabStream.Properties.Resources.resources
+C:\Users\LAB5-PC034\source\repos\Terrenal_KielAndrew A__LabStream\Terrenal_KielAndrew A__LabStream\obj\Debug\Terrenal_KielAndrew A__LabStream.csproj.GenerateResource.cache
+C:\Users\LAB5-PC034\source\repos\Terrenal_KielAndrew A__LabStream\Terrenal_KielAndrew A__LabStream\obj\Debug\Terrenal_KielAndrew A__LabStream.csproj.CoreCompileInputs.cache
+C:\Users\LAB5-PC034\source\repos\Terrenal_KielAndrew A__LabStream\Terrenal_KielAndrew A__LabStream\obj\Debug\Terrenal_KielAndrew A__LabStream.exe
+C:\Users\LAB5-PC034\source\repos\Terrenal_KielAndrew A__LabStream\Terrenal_KielAndrew A__LabStream\obj\Debug\Terrenal_KielAndrew A__LabStream.pdb
+C:\Users\LAB5-PC034\source\repos\Terrenal_KielAndrew A__LabStream\Terrenal_KielAndrew A__LabStream\obj\Debug\Terrenal_KielAndrew_A__LabStream.FrmLab1.resources
+C:\Users\LAB5-PC034\source\repos\Terrenal_KielAndrew A__LabStream\Terrenal_KielAndrew A__LabStream\obj\Debug\Terrenal_KielAndrew_A__LabStream.FrmFileName.resources
+C:\Users\LAB5-PC034\source\repos\Terrenal_KielAndrew A__LabStream\Terrenal_KielAndrew A__LabStream\obj\Debug\Terrenal_KielAndrew_A__LabStream.FrmRegistration.resources
